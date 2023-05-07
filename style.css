@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(10, 5, 1);
+}
+
+.container {
+  background: radial-gradient(rgb(219, 97, 168)  , rgb(255, 255, 255));
+  padding: 150px;
+  border-radius: 600px;
+
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-weight: 900;
+  padding-bottom: 40px;
+}
+
+.btn{
+  font-weight: 500;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  margin-top: 30px;
+}
